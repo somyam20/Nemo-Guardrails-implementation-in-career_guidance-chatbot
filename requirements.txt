@@ -1,0 +1,24 @@
+# fastapi
+# uvicorn
+# pydantic
+# python-dotenv
+# PyYAML
+# psycopg2-binary
+# sqlalchemy
+# pymilvus
+# openai
+# google-generativeai
+# httpx
+fastapi
+uvicorn
+pydantic
+python-dotenv
+PyYAML
+psycopg2-binary
+sqlalchemy
+pymilvus
+openai
+google-genai
+httpx
+python-multipart
+PyPDF2

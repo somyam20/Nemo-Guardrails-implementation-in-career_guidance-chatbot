@@ -1,0 +1,134 @@
+questions:
+  - id: 1
+    question: "What is your current education level?"
+    type: "single_choice"
+    options:
+      - "High School"
+      - "Bachelor's Degree"
+      - "Master's Degree"
+      - "PhD"
+      - "Other"
+    category: "education"
+
+  - id: 2
+    question: "What are your primary areas of interest?"
+    type: "multiple_choice"
+    options:
+      - "Technology & Software"
+      - "Business & Management"
+      - "Creative & Design"
+      - "Healthcare & Medicine"
+      - "Education & Training"
+      - "Engineering"
+      - "Finance & Accounting"
+      - "Marketing & Sales"
+      - "Data & Analytics"
+      - "Research & Development"
+    category: "interests"
+
+  - id: 3
+    question: "What is your current experience level?"
+    type: "single_choice"
+    options:
+      - "Student/No Experience"
+      - "0-2 years"
+      - "2-5 years"
+      - "5-10 years"
+      - "10+ years"
+    category: "experience"
+
+  - id: 4
+    question: "What are your strongest skills?"
+    type: "multiple_choice"
+    options:
+      - "Programming & Coding"
+      - "Problem Solving"
+      - "Communication"
+      - "Leadership"
+      - "Analytical Thinking"
+      - "Creativity"
+      - "Project Management"
+      - "Data Analysis"
+      - "Design"
+      - "Public Speaking"
+    category: "skills"
+
+  - id: 5
+    question: "What is your preferred work environment?"
+    type: "single_choice"
+    options:
+      - "Remote/Work from Home"
+      - "Office/On-site"
+      - "Hybrid"
+      - "Flexible/No Preference"
+    category: "work_preference"
+
+  - id: 6
+    question: "What motivates you most in a career?"
+    type: "multiple_choice"
+    options:
+      - "High Salary"
+      - "Work-Life Balance"
+      - "Career Growth Opportunities"
+      - "Making a Positive Impact"
+      - "Creative Freedom"
+      - "Job Security"
+      - "Learning New Skills"
+      - "Leadership Opportunities"
+    category: "motivation"
+
+  - id: 7
+    question: "What type of projects do you enjoy working on?"
+    type: "multiple_choice"
+    options:
+      - "Building Software Applications"
+      - "Data Analysis & Insights"
+      - "Creative Content Creation"
+      - "Strategic Planning"
+      - "Research & Innovation"
+      - "Client-facing Projects"
+      - "Process Optimization"
+      - "Product Development"
+    category: "project_preference"
+
+  - id: 8
+    question: "How comfortable are you with learning new technologies?"
+    type: "single_choice"
+    options:
+      - "Very Comfortable - I love learning new tech"
+      - "Comfortable - I can adapt when needed"
+      - "Somewhat Comfortable - Prefer familiar tools"
+      - "Not Comfortable - Prefer stability"
+    category: "adaptability"
+
+  - id: 9
+    question: "What is your career timeline goal?"
+    type: "single_choice"
+    options:
+      - "Immediate - Looking to start now"
+      - "Short-term - Within 6 months"
+      - "Medium-term - 6-12 months"
+      - "Long-term - 1-2 years"
+      - "Exploring options"
+    category: "timeline"
+
+  - id: 10
+    question: "What industries interest you the most?"
+    type: "multiple_choice"
+    options:
+      - "Technology & IT"
+      - "Healthcare & Pharmaceuticals"
+      - "Finance & Banking"
+      - "E-commerce & Retail"
+      - "Education & EdTech"
+      - "Media & Entertainment"
+      - "Consulting"
+      - "Manufacturing"
+      - "Government & Public Sector"
+      - "Startups & Entrepreneurship"
+    category: "industry"
+
+metadata:
+  version: "1.0"
+  last_updated: "2025-02-10"
+  description: "Career assessment questionnaire to understand user profile and provide personalized guidance"

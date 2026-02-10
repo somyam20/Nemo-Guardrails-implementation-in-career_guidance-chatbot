@@ -1,0 +1,3 @@
+milvus:
+  collection_name: career_vectors
+  dimension: 768
